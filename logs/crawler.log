@@ -1,0 +1,298 @@
+[INFO][main][2017-12-26 21:09:52][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][pool-1-thread-1][2017-12-26 21:09:53][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com
+[INFO][pool-1-thread-1][2017-12-26 21:09:54][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/w1570631036/p/8119747.html
+[INFO][pool-1-thread-2][2017-12-26 21:09:55][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/frombeijingwithlove/p/8120028.html
+[INFO][pool-1-thread-3][2017-12-26 21:09:55][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/f-ck-need-u/p/8120008.html
+[INFO][pool-1-thread-1][2017-12-26 21:09:56][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/lwqlun/p/8119856.html
+[INFO][pool-1-thread-2][2017-12-26 21:09:56][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/Survivalist/p/8119891.html
+[INFO][pool-1-thread-3][2017-12-26 21:09:56][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/realwy/p/8119843.html
+[INFO][pool-1-thread-2][2017-12-26 21:09:57][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/wetest/p/8119808.html
+[INFO][pool-1-thread-3][2017-12-26 21:09:57][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/ljhdo/p/5540239.html
+[INFO][pool-1-thread-1][2017-12-26 21:09:57][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/supersswhite/p/8119866.html
+[INFO][pool-1-thread-3][2017-12-26 21:09:58][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/huqiaoblog/p/8117363.html
+[INFO][pool-1-thread-2][2017-12-26 21:09:58][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/dijia478/p/8085143.html
+[INFO][pool-1-thread-1][2017-12-26 21:09:58][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/youyoui/p/8118896.html
+[INFO][pool-1-thread-3][2017-12-26 21:09:59][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/wushangjue/p/8118787.html
+[INFO][pool-1-thread-2][2017-12-26 21:09:59][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/along21/p/8118609.html
+[INFO][pool-1-thread-1][2017-12-26 21:09:59][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/qcloud1001/p/8118833.html
+[INFO][pool-1-thread-3][2017-12-26 21:10:00][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/jingmoxukong/p/8118791.html
+[INFO][pool-1-thread-2][2017-12-26 21:10:00][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/yaoyaojcy/p/8118699.html
+[INFO][pool-1-thread-1][2017-12-26 21:10:00][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/xiaoqi/p/queries-in-spring-data-mongodb.html
+[INFO][pool-1-thread-2][2017-12-26 21:10:01][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/daweige/p/8118406.html
+[INFO][pool-1-thread-3][2017-12-26 21:10:01][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/zhangxinhua/p/mybatis.html
+[INFO][pool-1-thread-1][2017-12-26 21:10:01][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/mvc/AggSite/PostList.aspx
+[INFO][pool-1-thread-2][2017-12-26 21:10:07][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/happenlee/p/8118267.html
+[INFO][pool-1-thread-3][2017-12-26 21:10:07][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/roy-blog/p/8094842.html
+[INFO][pool-1-thread-1][2017-12-26 21:10:07][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/yabu007/p/8067694.html
+[INFO][pool-1-thread-2][2017-12-26 21:10:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/zhaoqingqing/p/7975705.html
+[INFO][pool-1-thread-3][2017-12-26 21:10:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/dxjx/p/8117276.html
+[INFO][pool-1-thread-1][2017-12-26 21:10:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/cz123/p/8117146.html
+[INFO][pool-1-thread-2][2017-12-26 21:10:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/paddix/p/8116866.html
+[INFO][pool-1-thread-3][2017-12-26 21:10:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/MaAce/p/8098156.html
+[INFO][pool-1-thread-1][2017-12-26 21:10:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/sakurayeah/p/8109978.html
+[INFO][pool-1-thread-2][2017-12-26 21:10:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/along21/p/8116509.html
+[INFO][pool-1-thread-3][2017-12-26 21:10:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/haolujun/p/8086557.html
+[INFO][pool-1-thread-1][2017-12-26 21:10:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/powertoolsteam/p/Webpack.html
+[INFO][main][2017-12-26 22:09:10][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:09:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:09:12][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:21)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:09:12][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:11:04][us.codecraft.webmagic.Spider] - Spider github.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:11:07][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft
+[INFO][pool-1-thread-1][2017-12-26 22:11:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/jsoup
+[INFO][pool-1-thread-3][2017-12-26 22:11:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/webmagic
+[INFO][main][2017-12-26 22:11:48][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:11:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:11:50][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:21)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:11:50][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:12:41][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:12:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:12:42][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:22)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:12:42][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:12:50][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:12:50][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:14:15][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:22)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:14:16][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:14:51][us.codecraft.webmagic.Spider] - Spider github.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:15:00][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft
+[INFO][pool-1-thread-1][2017-12-26 22:15:02][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/jsoup
+[INFO][pool-1-thread-3][2017-12-26 22:15:03][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/webmagic
+[INFO][pool-1-thread-4][2017-12-26 22:15:03][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/netty
+[INFO][pool-1-thread-4][2017-12-26 22:15:03][us.codecraft.webmagic.Spider] - page status code error, page https://github.com/code4craft/netty , code: 404
+[INFO][pool-1-thread-3][2017-12-26 22:15:04][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/blackhole
+[INFO][pool-1-thread-5][2017-12-26 22:15:04][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/tiny
+[INFO][pool-1-thread-5][2017-12-26 22:15:04][us.codecraft.webmagic.Spider] - page status code error, page https://github.com/code4craft/tiny , code: 404
+[INFO][pool-1-thread-1][2017-12-26 22:15:05][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/xsoup
+[INFO][pool-1-thread-5][2017-12-26 22:15:05][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/jhy/jsoup
+[INFO][pool-1-thread-3][2017-12-26 22:15:06][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/site/privacy
+[INFO][pool-1-thread-5][2017-12-26 22:15:06][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/java
+[INFO][pool-1-thread-4][2017-12-26 22:15:07][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/site/terms
+[INFO][pool-1-thread-4][2017-12-26 22:15:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/gsh199449/spider
+[INFO][pool-1-thread-5][2017-12-26 22:15:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/framework
+[INFO][pool-1-thread-1][2017-12-26 22:15:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/crawler
+[INFO][pool-1-thread-4][2017-12-26 22:15:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/wifesays
+[INFO][pool-1-thread-1][2017-12-26 22:15:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/jsoup
+[INFO][pool-1-thread-4][2017-12-26 22:15:12][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/html
+[INFO][pool-1-thread-1][2017-12-26 22:15:12][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/dom
+[INFO][pool-1-thread-3][2017-12-26 22:15:12][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/scraping
+[INFO][pool-1-thread-5][2017-12-26 22:15:13][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/code4craft/hostd
+[INFO][pool-1-thread-1][2017-12-26 22:15:14][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/css
+[INFO][pool-1-thread-4][2017-12-26 22:15:14][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://github.com/topics/parse
+[INFO][main][2017-12-26 22:22:39][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:22:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:22:40][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:20)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:22:40][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:24:56][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:24:57][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:24:57][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:20)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:24:57][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:27:35][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:27:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:27:36][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:20)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:27:36][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:27:48][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:27:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:27:49][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:20)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:27:49][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:30:05][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:30:06][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:30:06][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:20)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:30:06][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:31:18][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:31:19][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:20)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:31:19][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:32:02][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:32:02][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:32:02][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:20)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:32:02][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:33:21][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:33:22][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[INFO][main][2017-12-26 22:35:01][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:35:02][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[ERROR][pool-1-thread-1][2017-12-26 22:35:20][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.qiushibaike.com/hot/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.UnsupportedOperationException: XPath can not apply to plain text. Please check whether you use a previous xpath with attribute select (/@href etc).
+	at us.codecraft.webmagic.selector.PlainText.xpath(PlainText.java:32)
+	at qiushibaikeProcessor.process(qiushibaikeProcessor.java:23)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-26 22:35:20][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:36:04][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:36:05][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[INFO][main][2017-12-26 22:36:07][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 1 pages downloaded.
+[INFO][main][2017-12-26 22:36:46][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:36:47][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[INFO][pool-1-thread-1][2017-12-26 22:36:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/13/
+[INFO][pool-1-thread-5][2017-12-26 22:36:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/5/
+[INFO][pool-1-thread-2][2017-12-26 22:36:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/2/
+[INFO][pool-1-thread-3][2017-12-26 22:36:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/3/
+[INFO][pool-1-thread-4][2017-12-26 22:36:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/4/
+[INFO][pool-1-thread-1][2017-12-26 22:36:50][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/12/
+[INFO][pool-1-thread-5][2017-12-26 22:36:50][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/9/
+[WARN][pool-1-thread-2][2017-12-26 22:36:50][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-26 22:36:50][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/week/
+[INFO][pool-1-thread-2][2017-12-26 22:36:50][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/week/ , code: 503
+[INFO][pool-1-thread-4][2017-12-26 22:36:50][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/11/
+[INFO][pool-1-thread-3][2017-12-26 22:36:50][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/10/
+[INFO][pool-1-thread-1][2017-12-26 22:36:51][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/6/
+[INFO][pool-1-thread-2][2017-12-26 22:36:51][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/8/
+[INFO][pool-1-thread-5][2017-12-26 22:36:51][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/7/
+[INFO][main][2017-12-26 22:36:52][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 14 pages downloaded.
+[INFO][main][2017-12-26 22:46:05][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-26 22:46:06][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[INFO][pool-1-thread-1][2017-12-26 22:46:06][qiushibaikeProcessor] - <span> 分享个趣事，LZ家自己种铁观音茶叶的，今天来了个茶商要批发手工茶叶，LZ特地拿了珍藏级的清香型茶叶，她喝了说她是某某全国连锁茶叶店的招待经理，专门泡茶给客户喝的，觉得我这茶叶和她喝的档次差了很多，其实LZ已经知道她只是半路出家，所以LZ又故意拿了质量差些的茶叶泡给她喝，她说对，就是这样的味道，这才是好茶嘛，LZ当场不厚道的笑了哈哈，文笔不好见谅。只是觉得这人傻的可爱哈。。。 </span>
+[INFO][pool-1-thread-1][2017-12-26 22:46:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/13/
+[INFO][pool-1-thread-1][2017-12-26 22:46:08][qiushibaikeProcessor] - <span> 星期天带儿子在广场玩，我跟儿子抢一包薯片吃。<br>儿子：“妈妈，你吃这片！”<br>我：“那么小的不要，妈妈要吃大片的！”<br>儿子手里一片大的瞬间被我抢过来吃了。<br>儿子一边哈哈笑着一边把大的往自己嘴里塞，我从他嘴边去抢……<br>很愉快地把一包薯片抢着吃得干干净净，我意犹未尽地四处张望……旁边一大妈紧张地把一包零食往怀里一塞，拉住她孙女的小手说：“宝贝，我们走，奶奶不会吃你的，咱们找个地方给你慢慢吃……”<br>。。。。。。 </span>
+[INFO][pool-1-thread-3][2017-12-26 22:46:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/3/
+[INFO][pool-1-thread-5][2017-12-26 22:46:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/5/
+[INFO][pool-1-thread-3][2017-12-26 22:46:08][qiushibaikeProcessor] - <span> 闺女两岁多还没有分床睡，和老公一周见一次，此为背景！<br>晚上上床后，闺女不肯睡，在一边玩积木；我和老公一周未见早已意乱情迷，索性躲被窝里啪了起来！片刻之后，感觉快到了，一边做一边接着吻忍不住呜呜咽咽叫出声来……<br>这时只见一个小脑袋好奇的凑了过来：“怎么了，妈妈咋哭了…”然后盯着老公看了看“爸爸在欺负妈妈！”说着在老公脸上啪啪啪就扇了几巴掌！<br>特么哭笑不得！估计老公得有阴影了！ </span>
+[INFO][pool-1-thread-5][2017-12-26 22:46:08][qiushibaikeProcessor] - <span> 楼主以前特别喜欢打麻将，能打一天一夜不下场。吃饭是泡面白开水。抽烟就更不用说了，每次到后半夜几个牌友都沒烟了，就捡地上的烟头吸两口。<br>有一次楼主知道又要打通宵，就多带了两包烟。等到他们都沒烟时楼主还有两包，就一人免费发一支。那天手气不好身上的钱输光了，突发奇响，谁再找楼主要烟抽，得用钱买。刚开始2元一支，中间5元一支，最后几支10元一支，算算楼主的两包烟也卖了一两百块钱呢。<br>特么的，到天亮后散场不打了，楼主身无分文，连卖烟的钱也输完了。 </span>
+[INFO][pool-1-thread-4][2017-12-26 22:46:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/4/
+[INFO][pool-1-thread-2][2017-12-26 22:46:08][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/2/
+[INFO][pool-1-thread-4][2017-12-26 22:46:08][qiushibaikeProcessor] - <span> 老婆最近在学车，此为背景咯咯咯……<br>老婆洗完澡趴在床上认真地做着笔记，一边记还一边神神叨叨的念着什么。等我洗完澡出来，发现她已经睡着了，于是我满怀关爱的走过去轻轻地给她盖好了被子，可当我转身的时候，她居然说起了梦话：“李大哥……你慢点……别急……轻点啊……不要用力呀……”<br>哎呦！卧槽！我这心顿时拔凉拔凉的，要不是她最后来了一句“教练！快刹车！”估计我手里的指甲刀今晚就要见红了！ </span>
+[INFO][pool-1-thread-2][2017-12-26 22:46:08][qiushibaikeProcessor] - <span> 02年在湖北某地打工，租的是城中村中的一个四合院，我们4个人租了一间大点的房子。四合院楼上楼下另有许多小房间出租给女性自由工作者(你懂的)，四后院前门边有一家小饭馆。我们吃饭基本在饭馆后门对老板喊一声，老板就会把饭菜送到我们房里。<br>有一天中午我们正在吃饭时，老板去我们隔壁一个女性送饭。以下时老板和她的对话。<br>老板:饭菜送来了，一共7元。加昨天晚上的一共11元。<br>女:等下，马上给你拿钱。<br>老板:昨晚生意还好吧！我看昨天找你的人很多。<br>女:好过屁?昨天傍晚有个杂种，乘我不注意给老娘b里塞了个灯炮，灯 … </span>
+[INFO][pool-1-thread-1][2017-12-26 22:46:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/12/
+[INFO][pool-1-thread-1][2017-12-26 22:46:09][qiushibaikeProcessor] - <span> 记得那是入伍第二天，检查内科外科什么的。值得一提的是外科体检要检查全身的疤痕并且记录，就连小丁丁这样的隐私部位也会被检查到。<br><br>第二天我按照通知的时间准时报道，去抽了血量了血压等各种完事后来到外科，等着进门检查“小兄弟”。<br><br>没一会，里面的医生叫了一声“下一批”。<br><br>我和几个小伙子怀着忐忑的心走进了一个窗帘围着的小房间，然后我们再依次被叫到窗帘里，一个个脸带羞涩的“处子”等待着神圣的验身关卡。<br><br>终于轮到我啦，紧张…不安…恐惧…猜疑…好奇…五味杂陈于一身。我吸了口气，故作镇定的走进窗帘里。<br><br>“ … </span>
+[WARN][pool-1-thread-2][2017-12-26 22:46:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-26 22:46:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/week/
+[INFO][pool-1-thread-2][2017-12-26 22:46:09][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/week/ , code: 503
+[INFO][pool-1-thread-4][2017-12-26 22:46:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/11/
+[INFO][pool-1-thread-4][2017-12-26 22:46:09][qiushibaikeProcessor] - <span> 我大学上的是个不入流的学校，名字我就不提了，万一说出来你上网都搜索不到，那特么多尴尬啊。<br><br>说实话，一直向往大学生活，不为别的，只是听说大学里可以谈恋爱！结果去了以后我就傻X了，因为我们专业狼多肉少，平均10个男的也分不到1个女的，得知这个消息我特么都快哭了，毕竟在这种环境下要呆4年，那我得买多少卫生纸啊。上铺的哥们知道我的想法就过来劝我:“没事，他们一盒避孕套才用几天啊，咱一卷卫生纸能用好几个月，省钱！”我听完他的想法当时就想回他一句，你特么撸死活该！<br><br>但是不愿意归不愿意，我总不能因为这个退 … </span>
+[INFO][pool-1-thread-5][2017-12-26 22:46:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/10/
+[INFO][pool-1-thread-3][2017-12-26 22:46:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/9/
+[INFO][pool-1-thread-5][2017-12-26 22:46:09][qiushibaikeProcessor] - <span> 听说工商银行的信用卡很难办，有一天我居然收到一条短信说我有资格申请工商银行信用卡的资格了。带了身份证去办了，几天后通知我去银行拿卡，到手一看额度，我的天呐！居然给我这么高的额度！而且还有一张visa卡！听说经常刷还会提高额度，我就把这卡绑支付宝上了。而且给了媳妇让她随便刷。有一天媳妇火急火燎的打电话给我说在商场买化妆品那张卡刷来刷去提示额度不够，后来只能付现金。她说：就买了一瓶隔离霜想着刷卡可以不用自己掏现金结果糗死人了……人家还以为我是一个败家的小三呢，买个隔离霜还要刷情人的信用卡，而且这卡都 … </span>
+[INFO][pool-1-thread-3][2017-12-26 22:46:09][qiushibaikeProcessor] - <span> 几个同事出去玩，A带着孩子。<br>我们在打麻将，A的孩子穿着鞋子，踩在沙发上，拿水果往墙上砸。<br>我好心说了句，赶紧住手。<br>A说，我家孩子在家里就是皇帝，爱咋闹就咋闹。我们不管这些。<br><br>哥没理他，专心打牌，赢了他三千多。<br>走的时候服务员要二百块清洁费，我们仨手指了下A，我们就走了。<br>A跑上来说，你赢那么多，清洁费你出。<br><br>哥回怼了他一句，你讨你家皇帝欢心，可别带上我。<br>然后我撇下A，带另外俩个同事宵夜去 </span>
+[INFO][pool-1-thread-1][2017-12-26 22:46:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/6/
+[INFO][pool-1-thread-1][2017-12-26 22:46:10][qiushibaikeProcessor] - <span> 前不久，我们拍了一对即将离婚的夫妻，他们在民政局门口大打出手。<br>男方说:你打了我五年，这要离婚了，我要打你一次！<br>结果男方被女方打的满脸是血，路人报警了。 <br>男方当着民警控诉:我在外打工，她在家赌博把我挣得钱输的精光，还欠下十几万外债，我干两份活好不容易还清了，现在她又欠赌债十几万了，我都忍了！<br>可是昨天她的赌债突然还清了！<br>你说……男子边说边流泪…… <br>女方又是两巴掌:又没让你还，你还有理了？ <br>民警无语，沉默一会:你们上法院吧…… </span>
+[INFO][pool-1-thread-2][2017-12-26 22:46:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/7/
+[INFO][pool-1-thread-2][2017-12-26 22:46:10][qiushibaikeProcessor] - <span> 今天送完孩子逛超市取了，从超市出来推着购物车，我旁边一妹子也是推着购物车，里面还躺一个三个月大的婴儿，这妹子吧购物车放下，提着购物袋，就走了，我就喊，妹子，咋回事？孩子不要了还是咋滴？那妹子回来说到，我靠啊！还是没习惯啊！把孩子带出来老忘记，还以为我一个人出来了，谢谢你啊姐，这回要是真的爸孩子整丢了，我回家非得被打死了！我说没啥，我也是打你这会儿过来的，好在我是把孩子多次丢在了自家储藏室[捂脸][捂脸][捂脸] </span>
+[INFO][pool-1-thread-4][2017-12-26 22:46:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page/8/
+[INFO][pool-1-thread-4][2017-12-26 22:46:10][qiushibaikeProcessor] - <span> 刚毕业那会。都没什么活干。我们几个关系较好的同学隔三差五就得喝一顿。那天晚上六点多。我们又聚到了一起。唯独缺明哥。哦对了。当时就他有个活。在某小煤井上班，还是个小班长。包工头是他爹！打电话给他。说不来了。上班呢。结果我们几个轮流给他打电话。然后他感动了。觉得同学情太重要了。将近五公里跑步顶雨回来了。进屋的那一刻我们的眼睛湿润了。那一天我们喝的天昏地暗。那一天我们喝的沟满壕平。那一天我们喝的情深义重。那一天我们喝的壮志豪情！大家心里只有一个概念。同学情太深重了！！<br><br>然后，第二天明哥 … </span>
+[INFO][main][2017-12-26 22:46:41][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com closed! 14 pages downloaded.
