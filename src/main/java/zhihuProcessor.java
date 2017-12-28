@@ -8,7 +8,23 @@ import us.codecraft.webmagic.processor.PageProcessor;
  */
 public class zhihuProcessor implements PageProcessor {
 
-    private Site site = Site.me().setRetryTimes(3).setSleepTime(1000).setTimeOut(10000).addHeader("User-Agent", "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36");
+    private Site site = Site.me().setRetryTimes(3).setSleepTime(1000).setTimeOut(10000)
+            .setDomain("www.zhihu.com")
+            .addCookie("__utma","")
+            .addCookie("__utmc","")
+            .addCookie("__utmv","")
+            .addCookie("__utmz","")
+            .addCookie("_xsrf","")
+            .addCookie("_zap","")
+            .addCookie("aliyungf_tc","")
+            .addCookie("cap_id","")
+            .addCookie("capsion_ticket","")
+            .addCookie("d_c0","")
+            .addCookie("l_cap_id","")
+            .addCookie("q_c1","")
+            .addCookie("r_cap_id","")
+            .addCookie("z_c0","")
+            .addHeader("User-Agent", "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36");
 
 
     public static void main(String[] args) {
@@ -17,10 +33,7 @@ public class zhihuProcessor implements PageProcessor {
 
     @Override
     public void process(Page page) {
-        page.addTargetRequests(page.getHtml().links().regex("(https://github\\.com/\\w+/\\w+)").all());
-
-
-
+//        page.addTargetRequests(page.getHtml().links().regex("(https://github\\.com/\\w+/\\w+)").all());
     }
 
     @Override

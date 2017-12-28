@@ -2409,3 +2409,470 @@ java.net.SocketTimeoutException: Read timed out
 [INFO][main][2017-12-27 23:09:14][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
 [INFO][pool-1-thread-1][2017-12-27 23:09:15][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/signin
 [INFO][main][2017-12-27 23:09:17][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-28 14:10:29][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:23:16][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:23:27][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:23:41][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:25:02][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:38:26][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:51:03][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:51:18][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:52:57][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 14:53:23][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 15:02:02][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 15:03:41][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-28 15:04:44][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[ERROR][pool-1-thread-1][2017-12-28 15:04:45][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.cnblogs.com', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: The driver executable is a directory: D:\fy\chromedriver_win32
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:534)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:138)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:131)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:339)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:147)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.configure(WebDriverPool.java:138)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:196)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:76)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-28 15:04:45][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-28 15:05:10][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[ERROR][pool-1-thread-1][2017-12-28 15:05:10][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.cnblogs.com', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: The driver executable does not exist: D:\fy\chromedriver_win32\chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:534)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:136)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:131)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:339)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:147)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.configure(WebDriverPool.java:138)
+	at us.codecraft.webmagic.downloader.selenium.WebDriverPool.get(WebDriverPool.java:196)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:76)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-28 15:05:10][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-28 15:05:23][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][pool-1-thread-1][2017-12-28 15:05:44][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com
+[INFO][pool-1-thread-2][2017-12-28 15:05:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/best/p/8135735.html
+[INFO][pool-1-thread-2][2017-12-28 15:05:52][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wuhuacong/p/8126727.html
+[INFO][pool-1-thread-3][2017-12-28 15:05:52][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/flyingaway/p/8126178.html
+[INFO][pool-1-thread-9][2017-12-28 15:06:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/vipyoumay/p/8134434.html
+[INFO][pool-1-thread-2][2017-12-28 15:06:06][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/sampapa/p/8134086.html
+[INFO][pool-1-thread-5][2017-12-28 15:06:13][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xishuai/p/mac-iterm2.html
+[INFO][pool-1-thread-2][2017-12-28 15:06:14][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/ZXYloveFR/p/8134078.html
+[INFO][pool-1-thread-3][2017-12-28 15:06:21][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xueweihan/p/8134040.html
+[INFO][pool-1-thread-2][2017-12-28 15:06:26][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/clsn/p/8093257.html
+[INFO][pool-1-thread-9][2017-12-28 15:06:35][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/IcanFixIt/p/8133798.html
+[INFO][pool-1-thread-3][2017-12-28 15:06:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xhload3d/p/8124629.html
+[INFO][pool-1-thread-9][2017-12-28 15:06:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zhaof/p/8129424.html
+[INFO][pool-1-thread-3][2017-12-28 15:06:50][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xuning/p/8117581.html
+[INFO][pool-1-thread-5][2017-12-28 15:06:54][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/codingblock/p/8060101.html
+[INFO][pool-1-thread-2][2017-12-28 15:06:54][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p2
+[INFO][pool-1-thread-3][2017-12-28 15:06:58][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/charlotte77/p/8127780.html
+[INFO][pool-1-thread-9][2017-12-28 15:06:58][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/flying-tiger/p/8120046.html
+[INFO][pool-1-thread-5][2017-12-28 15:06:58][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/opencascade/p/OpenCASCADE_CommonSurface.html
+[INFO][pool-1-thread-2][2017-12-28 15:06:58][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/tugenhua0707/p/8127466.html
+[INFO][pool-1-thread-10][2017-12-28 15:07:02][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/majianchao/p/8134878.html
+[INFO][pool-1-thread-9][2017-12-28 15:07:06][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cyq1162/p/8077263.html
+[INFO][pool-1-thread-5][2017-12-28 15:07:07][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/qdhxhz/p/8127206.html
+[INFO][main][2017-12-28 15:30:04][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][pool-1-thread-1][2017-12-28 15:30:05][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com
+[INFO][pool-1-thread-1][2017-12-28 15:30:07][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/best/p/8135735.html
+[INFO][pool-1-thread-2][2017-12-28 15:30:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/dingxiansen/p/8135888.html
+[INFO][pool-1-thread-3][2017-12-28 15:30:09][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/zhanggui/p/8135790.html
+[INFO][pool-1-thread-1][2017-12-28 15:30:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/flyingaway/p/8126178.html
+[INFO][pool-1-thread-2][2017-12-28 15:30:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/kexing/p/8127146.html
+[INFO][pool-1-thread-3][2017-12-28 15:30:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/xishuai/p/mac-iterm2.html
+[INFO][pool-1-thread-1][2017-12-28 15:30:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/llhthinker/p/8127788.html
+[INFO][pool-1-thread-3][2017-12-28 15:30:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/PatrickLiu/p/8135083.html
+[INFO][pool-1-thread-2][2017-12-28 15:30:11][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/GuZhenYin/p/8135096.html
+[INFO][pool-1-thread-1][2017-12-28 15:30:12][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/vipyoumay/p/8134434.html
+[INFO][pool-1-thread-3][2017-12-28 15:30:12][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/majianchao/p/8134878.html
+[INFO][pool-1-thread-2][2017-12-28 15:30:13][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/wardensky/p/8134740.html
+[INFO][pool-1-thread-3][2017-12-28 15:30:14][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/sampapa/p/8134086.html
+[INFO][pool-1-thread-1][2017-12-28 15:30:14][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/wuhuacong/p/8126727.html
+[INFO][pool-1-thread-2][2017-12-28 15:30:14][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.cnblogs.com/ZXYloveFR/p/8134078.html
+[INFO][main][2017-12-28 15:31:14][us.codecraft.webmagic.Spider] - Spider www.qiushibaike.com started!
+[INFO][pool-1-thread-1][2017-12-28 15:31:14][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/
+[INFO][pool-1-thread-1][2017-12-28 15:31:14][qiushibaikeProcessor] - <span> 记得去年冬天带孩子上街溜达，看见有卖糖葫芦的，想吃好久了，就拉着孩子跑过去，看着各式各样的糖葫芦口水都要流出来了，赶忙对卖糖葫芦的说，给我来两个糖葫芦，然后人家问我要什么口味的，我迫不及待的说，我要糖葫芦味的，然后卖糖葫芦的楞楞的看着我，这时候孩子捅咕我说，人家问你要什么水果的，我才反应过来，红着脸说，给我来两个山楂的，然后匆匆付钱拽着孩子跑了，一边走孩子一边说，下次在也不和你出门了，太卡脸了！呜呜呜 </span>
+[INFO][pool-1-thread-3][2017-12-28 15:31:16][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119860277
+[INFO][pool-1-thread-3][2017-12-28 15:31:16][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-2][2017-12-28 15:31:16][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:16][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/29159656
+[INFO][pool-1-thread-2][2017-12-28 15:31:16][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/29159656 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:16][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:16][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/33807867
+[INFO][pool-1-thread-1][2017-12-28 15:31:16][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/33807867 , code: 503
+[INFO][pool-1-thread-4][2017-12-28 15:31:16][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/34350130
+[INFO][pool-1-thread-4][2017-12-28 15:31:16][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-5][2017-12-28 15:31:16][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879464
+[INFO][pool-1-thread-5][2017-12-28 15:31:16][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-2][2017-12-28 15:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119861676
+[INFO][pool-1-thread-2][2017-12-28 15:31:17][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-4][2017-12-28 15:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/32692309
+[INFO][pool-1-thread-4][2017-12-28 15:31:17][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/32692309 , code: 503
+[INFO][pool-1-thread-1][2017-12-28 15:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/34062665
+[INFO][pool-1-thread-1][2017-12-28 15:31:17][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-5][2017-12-28 15:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/117766308
+[INFO][pool-1-thread-5][2017-12-28 15:31:17][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/117766308 , code: 503
+[INFO][pool-1-thread-3][2017-12-28 15:31:17][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879383
+[INFO][pool-1-thread-3][2017-12-28 15:31:17][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-5][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119876465
+[INFO][pool-1-thread-5][2017-12-28 15:31:18][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119876465 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/9318136
+[INFO][pool-1-thread-4][2017-12-28 15:31:18][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/9318136 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[WARN][pool-1-thread-3][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/27208332
+[INFO][pool-1-thread-3][2017-12-28 15:31:18][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/27208332 , code: 503
+[INFO][pool-1-thread-1][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/30423399
+[INFO][pool-1-thread-1][2017-12-28 15:31:18][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/30423399 , code: 503
+[INFO][pool-1-thread-2][2017-12-28 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119868064
+[INFO][pool-1-thread-2][2017-12-28 15:31:18][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-2][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/117765310
+[INFO][pool-1-thread-2][2017-12-28 15:31:19][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/117765310 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/30120003
+[INFO][pool-1-thread-4][2017-12-28 15:31:19][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/30120003 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/30951025
+[INFO][pool-1-thread-1][2017-12-28 15:31:19][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/30951025 , code: 503
+[INFO][pool-1-thread-3][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119870293
+[INFO][pool-1-thread-3][2017-12-28 15:31:19][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-5][2017-12-28 15:31:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119865525
+[INFO][pool-1-thread-5][2017-12-28 15:31:19][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-3][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879090
+[INFO][pool-1-thread-3][2017-12-28 15:31:20][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119879090 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/31764037
+[INFO][pool-1-thread-1][2017-12-28 15:31:20][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/31764037 , code: 503
+[INFO][pool-1-thread-4][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879323
+[WARN][pool-1-thread-5][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/31508537
+[INFO][pool-1-thread-5][2017-12-28 15:31:20][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/31508537 , code: 503
+[INFO][pool-1-thread-4][2017-12-28 15:31:20][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-2][2017-12-28 15:31:20][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/24667130
+[INFO][pool-1-thread-2][2017-12-28 15:31:20][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-4][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/117765412
+[INFO][pool-1-thread-4][2017-12-28 15:31:21][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/117765412 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/24426337
+[INFO][pool-1-thread-5][2017-12-28 15:31:21][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/24426337 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879452
+[INFO][pool-1-thread-2][2017-12-28 15:31:21][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119879452 , code: 503
+[INFO][pool-1-thread-1][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879316
+[INFO][pool-1-thread-1][2017-12-28 15:31:21][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-3][2017-12-28 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119877221
+[INFO][pool-1-thread-3][2017-12-28 15:31:21][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-5][2017-12-28 15:31:22][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:22][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/4468918
+[INFO][pool-1-thread-5][2017-12-28 15:31:22][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/4468918 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:22][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:22][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/212822
+[INFO][pool-1-thread-1][2017-12-28 15:31:22][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/212822 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:23][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:23][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119876515
+[INFO][pool-1-thread-3][2017-12-28 15:31:23][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119876515 , code: 503
+[INFO][pool-1-thread-2][2017-12-28 15:31:23][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119877432
+[INFO][pool-1-thread-2][2017-12-28 15:31:23][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-4][2017-12-28 15:31:23][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119874864
+[INFO][pool-1-thread-4][2017-12-28 15:31:23][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-3][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/12841212
+[INFO][pool-1-thread-3][2017-12-28 15:31:24][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/12841212 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119876584
+[INFO][pool-1-thread-2][2017-12-28 15:31:24][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119876584 , code: 503
+[INFO][pool-1-thread-5][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/31846451
+[INFO][pool-1-thread-5][2017-12-28 15:31:24][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-4][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/32685225
+[INFO][pool-1-thread-4][2017-12-28 15:31:24][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/32685225 , code: 503
+[INFO][pool-1-thread-1][2017-12-28 15:31:24][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/117766197
+[INFO][pool-1-thread-1][2017-12-28 15:31:24][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-2][2017-12-28 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/32158226
+[INFO][pool-1-thread-2][2017-12-28 15:31:25][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/32158226 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/27990908
+[INFO][pool-1-thread-4][2017-12-28 15:31:25][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/27990908 , code: 503
+[INFO][pool-1-thread-3][2017-12-28 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879008
+[INFO][pool-1-thread-3][2017-12-28 15:31:25][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-1][2017-12-28 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879318
+[INFO][pool-1-thread-1][2017-12-28 15:31:25][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-5][2017-12-28 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119878804
+[INFO][pool-1-thread-5][2017-12-28 15:31:25][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-4][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/117766710
+[INFO][pool-1-thread-4][2017-12-28 15:31:26][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-3][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/hot/page
+[INFO][pool-1-thread-3][2017-12-28 15:31:26][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/hot/page , code: 503
+[INFO][pool-1-thread-2][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/30818245
+[INFO][pool-1-thread-2][2017-12-28 15:31:26][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-1][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119791706
+[INFO][pool-1-thread-1][2017-12-28 15:31:26][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119791706 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119818377
+[INFO][pool-1-thread-5][2017-12-28 15:31:26][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119818377 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:27][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:27][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119841692
+[INFO][pool-1-thread-5][2017-12-28 15:31:27][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119841692 , code: 503
+[INFO][pool-1-thread-4][2017-12-28 15:31:27][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119824946
+[INFO][pool-1-thread-4][2017-12-28 15:31:27][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-3][2017-12-28 15:31:27][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119805087
+[INFO][pool-1-thread-3][2017-12-28 15:31:27][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-2][2017-12-28 15:31:27][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119801394
+[INFO][pool-1-thread-2][2017-12-28 15:31:27][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-1][2017-12-28 15:31:27][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119793563
+[INFO][pool-1-thread-1][2017-12-28 15:31:27][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-4][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2466462
+[INFO][pool-1-thread-4][2017-12-28 15:31:28][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2466462 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2459622
+[INFO][pool-1-thread-3][2017-12-28 15:31:28][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2459622 , code: 503
+[INFO][pool-1-thread-5][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119852604
+[WARN][pool-1-thread-1][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2465477
+[INFO][pool-1-thread-1][2017-12-28 15:31:28][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2465477 , code: 503
+[INFO][pool-1-thread-5][2017-12-28 15:31:28][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-2][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2464017
+[INFO][pool-1-thread-2][2017-12-28 15:31:28][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2464017 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2458203
+[INFO][pool-1-thread-5][2017-12-28 15:31:29][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2458203 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2464620
+[INFO][pool-1-thread-2][2017-12-28 15:31:29][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2464620 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2458326
+[INFO][pool-1-thread-4][2017-12-28 15:31:29][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2458326 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2459223
+[INFO][pool-1-thread-3][2017-12-28 15:31:29][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2459223 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:29][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2462856
+[INFO][pool-1-thread-1][2017-12-28 15:31:29][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2462856 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467571
+[INFO][pool-1-thread-1][2017-12-28 15:31:30][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467571 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2466290
+[INFO][pool-1-thread-5][2017-12-28 15:31:30][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2466290 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467574
+[INFO][pool-1-thread-2][2017-12-28 15:31:30][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467574 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467573
+[INFO][pool-1-thread-4][2017-12-28 15:31:30][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467573 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:30][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467572
+[INFO][pool-1-thread-3][2017-12-28 15:31:30][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467572 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467567
+[INFO][pool-1-thread-4][2017-12-28 15:31:31][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467567 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467570
+[INFO][pool-1-thread-1][2017-12-28 15:31:31][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467570 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467569
+[INFO][pool-1-thread-5][2017-12-28 15:31:31][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467569 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467568
+[INFO][pool-1-thread-2][2017-12-28 15:31:31][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467568 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467566
+[INFO][pool-1-thread-3][2017-12-28 15:31:31][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467566 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/joke/2467565
+[INFO][pool-1-thread-4][2017-12-28 15:31:32][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/joke/2467565 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4909022
+[INFO][pool-1-thread-3][2017-12-28 15:31:32][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4909022 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4908956
+[INFO][pool-1-thread-2][2017-12-28 15:31:32][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4908956 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4917448
+[INFO][pool-1-thread-1][2017-12-28 15:31:32][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4917448 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:32][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4941176
+[INFO][pool-1-thread-5][2017-12-28 15:31:32][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4941176 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4921485
+[INFO][pool-1-thread-5][2017-12-28 15:31:33][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4921485 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4921709
+[INFO][pool-1-thread-3][2017-12-28 15:31:33][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4921709 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4906684
+[INFO][pool-1-thread-4][2017-12-28 15:31:33][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4906684 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:33][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4912811
+[INFO][pool-1-thread-2][2017-12-28 15:31:33][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4912811 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:34][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:34][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4925336
+[INFO][pool-1-thread-1][2017-12-28 15:31:34][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4925336 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942209
+[INFO][pool-1-thread-2][2017-12-28 15:31:35][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942209 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4924986
+[INFO][pool-1-thread-5][2017-12-28 15:31:35][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4924986 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942211
+[INFO][pool-1-thread-3][2017-12-28 15:31:35][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942211 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942210
+[INFO][pool-1-thread-4][2017-12-28 15:31:35][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942210 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942208
+[INFO][pool-1-thread-1][2017-12-28 15:31:35][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942208 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942204
+[INFO][pool-1-thread-4][2017-12-28 15:31:36][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942204 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942207
+[INFO][pool-1-thread-2][2017-12-28 15:31:36][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942207 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942206
+[INFO][pool-1-thread-5][2017-12-28 15:31:36][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942206 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942205
+[INFO][pool-1-thread-3][2017-12-28 15:31:36][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942205 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:36][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942203
+[INFO][pool-1-thread-1][2017-12-28 15:31:36][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942203 , code: 503
+[INFO][pool-1-thread-2][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/new4/fetchpass
+[INFO][pool-1-thread-2][2017-12-28 15:31:37][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-4][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/key/4942202
+[INFO][pool-1-thread-4][2017-12-28 15:31:37][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/key/4942202 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/20241415
+[INFO][pool-1-thread-3][2017-12-28 15:31:37][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/20241415 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/27619200
+[INFO][pool-1-thread-5][2017-12-28 15:31:37][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/27619200 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/16121483
+[INFO][pool-1-thread-1][2017-12-28 15:31:37][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/16121483 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/35011353
+[INFO][pool-1-thread-2][2017-12-28 15:31:38][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/35011353 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/31489192
+[INFO][pool-1-thread-5][2017-12-28 15:31:38][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/31489192 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/18752563
+[INFO][pool-1-thread-3][2017-12-28 15:31:38][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/18752563 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/32970395
+[INFO][pool-1-thread-4][2017-12-28 15:31:38][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/32970395 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:38][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/5994419
+[INFO][pool-1-thread-1][2017-12-28 15:31:38][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/5994419 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/20209471
+[INFO][pool-1-thread-4][2017-12-28 15:31:39][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/20209471 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/13012412
+[INFO][pool-1-thread-5][2017-12-28 15:31:39][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/13012412 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/35702869
+[INFO][pool-1-thread-3][2017-12-28 15:31:39][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/35702869 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/32817732
+[INFO][pool-1-thread-1][2017-12-28 15:31:39][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/32817732 , code: 503
+[INFO][pool-1-thread-2][2017-12-28 15:31:39][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/34000187
+[INFO][pool-1-thread-2][2017-12-28 15:31:39][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-4][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/10661961
+[INFO][pool-1-thread-4][2017-12-28 15:31:40][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/10661961 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/33803728
+[INFO][pool-1-thread-5][2017-12-28 15:31:40][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/33803728 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119751943
+[INFO][pool-1-thread-1][2017-12-28 15:31:40][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119751943 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119849582
+[INFO][pool-1-thread-2][2017-12-28 15:31:40][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119849582 , code: 503
+[INFO][pool-1-thread-3][2017-12-28 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119678528
+[INFO][pool-1-thread-3][2017-12-28 15:31:40][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-3][2017-12-28 15:31:41][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:41][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/22321053
+[INFO][pool-1-thread-3][2017-12-28 15:31:41][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/22321053 , code: 503
+[WARN][pool-1-thread-2][2017-12-28 15:31:41][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:41][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/14465070
+[INFO][pool-1-thread-2][2017-12-28 15:31:41][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/14465070 , code: 503
+[INFO][pool-1-thread-4][2017-12-28 15:31:41][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119761184
+[INFO][pool-1-thread-1][2017-12-28 15:31:41][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119879445
+[INFO][pool-1-thread-1][2017-12-28 15:31:41][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-4][2017-12-28 15:31:41][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-5][2017-12-28 15:31:41][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119823649
+[INFO][pool-1-thread-5][2017-12-28 15:31:41][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-2][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-2][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/27995592
+[INFO][pool-1-thread-2][2017-12-28 15:31:42][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/27995592 , code: 503
+[WARN][pool-1-thread-4][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/32523554
+[INFO][pool-1-thread-4][2017-12-28 15:31:42][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/32523554 , code: 503
+[WARN][pool-1-thread-5][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-5][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/34062278
+[INFO][pool-1-thread-5][2017-12-28 15:31:42][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/34062278 , code: 503
+[WARN][pool-1-thread-1][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/19993949
+[INFO][pool-1-thread-1][2017-12-28 15:31:42][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/users/19993949 , code: 503
+[INFO][pool-1-thread-3][2017-12-28 15:31:42][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/users/35525420
+[INFO][pool-1-thread-3][2017-12-28 15:31:42][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-2][2017-12-28 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/112805263
+[INFO][pool-1-thread-2][2017-12-28 15:31:43][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-1][2017-12-28 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-1][2017-12-28 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/59766463
+[INFO][pool-1-thread-1][2017-12-28 15:31:43][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/59766463 , code: 503
+[WARN][pool-1-thread-3][2017-12-28 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-3][2017-12-28 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/7735036
+[INFO][pool-1-thread-3][2017-12-28 15:31:43][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/7735036 , code: 503
+[INFO][pool-1-thread-5][2017-12-28 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/116489126
+[INFO][pool-1-thread-5][2017-12-28 15:31:43][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-4][2017-12-28 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/10495771
+[INFO][pool-1-thread-4][2017-12-28 15:31:43][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-2][2017-12-28 15:31:44][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/47551102
+[INFO][pool-1-thread-2][2017-12-28 15:31:44][qiushibaikeProcessor] - 
+[WARN][pool-1-thread-4][2017-12-28 15:31:44][us.codecraft.webmagic.downloader.HttpClientDownloader] - Charset autodetect failed, use UTF-8 as charset. Please specify charset in Site.setCharset()
+[INFO][pool-1-thread-4][2017-12-28 15:31:44][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119469767
+[INFO][pool-1-thread-4][2017-12-28 15:31:44][us.codecraft.webmagic.Spider] - page status code error, page https://www.qiushibaike.com/article/119469767 , code: 503
+[INFO][pool-1-thread-1][2017-12-28 15:31:45][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119588140
+[INFO][pool-1-thread-1][2017-12-28 15:31:45][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-3][2017-12-28 15:31:45][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/118592561
+[INFO][pool-1-thread-5][2017-12-28 15:31:45][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.qiushibaike.com/article/119456311
+[INFO][pool-1-thread-3][2017-12-28 15:31:45][qiushibaikeProcessor] - 
+[INFO][pool-1-thread-5][2017-12-28 15:31:45][qiushibaikeProcessor] - 
+[INFO][main][2017-12-28 15:34:46][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-28 15:34:46][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/signin
+[INFO][main][2017-12-28 15:34:47][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.

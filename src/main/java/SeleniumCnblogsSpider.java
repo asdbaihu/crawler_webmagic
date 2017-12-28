@@ -1,3 +1,7 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;
 import us.codecraft.webmagic.Spider;
@@ -50,9 +54,10 @@ public class SeleniumCnblogsSpider implements PageProcessor {
     }
 
     public static void main(String[] args) {
-        System.setProperty("selenuim_config", "D:/config.ini");//配置文件，我用的webmagic0.7.2,低版本可能不需要该文件，但也不支持phantomjs.
-        Downloader downloader = new SeleniumDownloader();//调用seleniumdownloader，这个downlaoder可以驱动selenium,phantomjs等方式下载，由config.ini配置
+        System.setProperty("selenuim_config", "D:\\fy\\Code\\crawler_webmagic\\src\\main\\resources\\config.ini");
+        Downloader downloader = new SeleniumDownloader("D:\\fy\\chromedriver_win32\\chromedriver.exe");
         downloader.setThread(10);
         Spider.create(new SeleniumCnblogsSpider()).setDownloader(downloader).addUrl("https://www.cnblogs.com").thread(10).runAsync();
     }
+
 }
