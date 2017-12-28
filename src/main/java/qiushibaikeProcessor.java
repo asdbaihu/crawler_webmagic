@@ -19,10 +19,11 @@ public class qiushibaikeProcessor implements PageProcessor {
 
     @Override
     public void process(Page page) {
-        l.info(page.getHtml().xpath("//a[@class=\"contentHerf\"]//div[@class=\"content\"]//").toString());
-        System.out.println("抓取的内容：" + page.getHtml().xpath("//a[@class=\"contentHerf\"]//div[@class=\"content\"]//").toString());
-        page.addTargetRequests(page.getHtml().xpath("//*[@id=\"content-left\"]/ul/li/a/@href").all());
-        page.putField("content", page.getHtml().xpath("//*[@class=\"contentHerf\"]/div/@span").toString());
+        l.info(page.getHtml().xpath("//*[@class=\"contentHerf\"]//div[@class=\"content\"]//").toString());
+//        System.out.println("抓取的内容：" + page.getHtml().xpath("//a[@class=\"contentHerf\"]//div[@class=\"content\"]//").toString());
+//        page.addTargetRequests(page.getHtml().xpath("//*[@id=\"content-left\"]/ul/li/a/@href").all());
+        page.addTargetRequests(page.getHtml().links().regex("(https://www\\.qiushibaike\\.com/\\w+/\\w+)").all());
+        page.putField("content", page.getHtml().xpath("//*[@class=\"contentHerf\"]//div[@class=\"content\"]//").toString());
 
     }
 
