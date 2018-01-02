@@ -2876,3 +2876,722 @@ java.lang.IllegalStateException: The driver executable does not exist: D:\fy\chr
 [INFO][main][2017-12-28 15:34:46][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
 [INFO][pool-1-thread-1][2017-12-28 15:34:46][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/signin
 [INFO][main][2017-12-28 15:34:47][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 17:41:41][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][Thread-0][2017-12-30 17:44:10][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][pool-1-thread-1][2017-12-30 17:44:15][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com
+[INFO][pool-1-thread-6][2017-12-30 17:45:18][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wenmingbangbing/p/8150218.html
+[INFO][pool-1-thread-4][2017-12-30 17:45:21][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/JavaArchitect/p/8149093.html
+[INFO][pool-1-thread-10][2017-12-30 17:45:24][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cheerup/p/8150055.html
+[INFO][pool-1-thread-4][2017-12-30 17:45:25][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/HL-123-blogs/p/8149893.html
+[INFO][pool-1-thread-10][2017-12-30 17:45:28][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/st-leslie/p/8098698.html
+[INFO][pool-1-thread-9][2017-12-30 17:45:30][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/fanling999/p/8150059.html
+[INFO][pool-1-thread-4][2017-12-30 17:45:30][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/majianchao/p/8149758.html
+[INFO][pool-1-thread-6][2017-12-30 17:45:32][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/dotnet-org-cn/p/8149693.html
+[INFO][pool-1-thread-9][2017-12-30 17:45:34][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/donaldtdz/p/8149598.html
+[INFO][pool-1-thread-6][2017-12-30 17:45:35][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/nzbin/p/8117535.html
+[INFO][pool-1-thread-8][2017-12-30 17:45:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xuwujing/p/8150109.html
+[INFO][pool-1-thread-10][2017-12-30 17:45:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/ruchun/p/8149287.html
+[INFO][pool-1-thread-9][2017-12-30 17:45:38][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/5ishare/p/8149212.html
+[INFO][pool-1-thread-9][2017-12-30 17:45:40][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/nimeiz/p/8149083.html
+[INFO][pool-1-thread-8][2017-12-30 17:45:44][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cq-jiang/p/8145747.html
+[INFO][pool-1-thread-9][2017-12-30 17:45:44][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p2
+[INFO][pool-1-thread-7][2017-12-30 17:45:46][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/sheldon-blog/p/8150117.html
+[INFO][pool-1-thread-8][2017-12-30 17:45:47][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/lovesong/p/8146912.html
+[INFO][pool-1-thread-10][2017-12-30 17:45:47][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/EmptyFS/p/8120608.html
+[INFO][pool-1-thread-9][2017-12-30 17:45:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/pleiades/p/8146658.html
+[INFO][pool-1-thread-6][2017-12-30 17:45:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/qingquanzi/p/8146638.html
+[INFO][pool-1-thread-7][2017-12-30 17:45:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/bluedoctor/p/8146604.html
+[INFO][pool-1-thread-9][2017-12-30 17:45:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/liliangel/p/8146517.html
+[INFO][pool-1-thread-7][2017-12-30 17:45:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/GH0522/p/8146301.html
+[INFO][pool-1-thread-1][2017-12-30 17:45:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/MindMrWang/p/8150048.html
+[INFO][pool-1-thread-10][2017-12-30 17:45:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xcywt/p/8146143.html
+[INFO][pool-1-thread-6][2017-12-30 17:45:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/silentdoer/p/8145722.html
+[INFO][pool-1-thread-4][2017-12-30 17:45:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/upyun/p/8146013.html
+[INFO][pool-1-thread-7][2017-12-30 17:46:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/NeilZhang/p/8145959.html
+[INFO][pool-1-thread-6][2017-12-30 17:46:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cq-jiang/p/8145281.html
+[INFO][pool-1-thread-9][2017-12-30 17:46:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zishengY/p/8144879.html
+[INFO][pool-1-thread-10][2017-12-30 17:46:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/hawk-zz/p/8145774.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/jiekzou/p/8119434.html
+[INFO][pool-1-thread-1][2017-12-30 17:46:05][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/romanjoy/p/8125703.html
+[INFO][pool-1-thread-9][2017-12-30 17:46:05][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/Jacky-MYD/p/8135692.html
+[INFO][pool-1-thread-6][2017-12-30 17:46:06][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/we-jack/p/8145457.html
+[INFO][pool-1-thread-7][2017-12-30 17:46:06][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/jukaiit/p/8145388.html
+[INFO][pool-1-thread-10][2017-12-30 17:46:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/flyingaway/p/8143621.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:11][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p3
+[INFO][pool-1-thread-7][2017-12-30 17:46:14][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/qcloud1001/p/8145016.html
+[INFO][pool-1-thread-1][2017-12-30 17:46:14][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/li-peng/p/8144372.html
+[INFO][pool-1-thread-6][2017-12-30 17:46:14][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/chenmh/p/8144798.html
+[INFO][pool-1-thread-9][2017-12-30 17:46:14][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/jukaiit/p/8110401.html
+[INFO][pool-1-thread-10][2017-12-30 17:46:14][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/hhelibeb/p/8066753.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:14][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/mukekeheart/p/8144742.html
+[INFO][pool-1-thread-4][2017-12-30 17:46:19][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/z890524/p/8143030.html
+[INFO][pool-1-thread-1][2017-12-30 17:46:20][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/WuXiaolong/p/8144459.html
+[INFO][pool-1-thread-9][2017-12-30 17:46:20][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/LOVEYU/p/8144175.html
+[INFO][pool-1-thread-7][2017-12-30 17:46:20][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/mar-q/p/8144151.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:21][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/alisecurity/p/8144137.html
+[INFO][pool-1-thread-5][2017-12-30 17:46:22][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/pannengzhi/p/2017-12-24-linux-self-check.html
+[INFO][pool-1-thread-4][2017-12-30 17:46:25][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/MindMrWang/p/8143981.html
+[INFO][pool-1-thread-1][2017-12-30 17:46:26][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/kexing/p/8127953.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:26][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/Ambre/p/7991484.html
+[INFO][pool-1-thread-7][2017-12-30 17:46:26][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cmt/p/8143854.html
+[INFO][pool-1-thread-6][2017-12-30 17:46:31][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/tinych/p/8143836.html
+[INFO][pool-1-thread-10][2017-12-30 17:46:31][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/lilinzhiyu/p/8125195.html
+[INFO][pool-1-thread-1][2017-12-30 17:46:32][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/hadoopdev/p/8143678.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:33][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/majianchao/p/8143647.html
+[INFO][pool-1-thread-7][2017-12-30 17:46:35][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/plokmju/p/8143531.html
+[INFO][pool-1-thread-4][2017-12-30 17:46:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p4
+[INFO][pool-1-thread-6][2017-12-30 17:46:42][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/weven/p/8143518.html
+[INFO][pool-1-thread-1][2017-12-30 17:46:42][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/a8457013/p/8143458.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:42][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/bananaaa/p/8143345.html
+[INFO][pool-1-thread-7][2017-12-30 17:46:42][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/imsz/p/8143322.html
+[INFO][pool-1-thread-10][2017-12-30 17:46:42][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/iamzhanglei/p/8143013.html
+[INFO][pool-1-thread-4][2017-12-30 17:46:43][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/jajian/p/8136672.html
+[INFO][pool-1-thread-9][2017-12-30 17:46:47][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/mikevictor07/p/8142678.html
+[INFO][pool-1-thread-1][2017-12-30 17:46:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/esofar/p/8043792.html
+[INFO][pool-1-thread-6][2017-12-30 17:46:49][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/maxzhang1985/p/8137199.html
+[INFO][pool-1-thread-8][2017-12-30 17:46:54][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/linxin/p/8142639.html
+[INFO][pool-1-thread-7][2017-12-30 17:46:54][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/pony1223/p/8138233.html
+[INFO][pool-1-thread-10][2017-12-30 17:46:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/CloudMan6/p/8135714.html
+[INFO][pool-1-thread-9][2017-12-30 17:46:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/IcanFixIt/p/8142615.html
+[INFO][pool-1-thread-6][2017-12-30 17:46:59][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/imjustice/p/how_shared_ptr_void_works.html
+[INFO][pool-1-thread-4][2017-12-30 17:47:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/CreateMyself/p/8138248.html
+[INFO][pool-1-thread-8][2017-12-30 17:47:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/popapa/p/DXRectTracker.html
+[INFO][pool-1-thread-1][2017-12-30 17:47:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/chenxizhang/p/8137924.html
+[INFO][pool-1-thread-7][2017-12-30 17:47:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zhuanzhuanfe/p/8137503.html
+[INFO][pool-1-thread-10][2017-12-30 17:47:05][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/ManyQian/p/8137462.html
+[INFO][pool-1-thread-6][2017-12-30 17:47:06][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zblade/p/8134121.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:06][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p5
+[INFO][pool-1-thread-1][2017-12-30 17:47:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/meowmeow/p/8087229.html
+[INFO][pool-1-thread-4][2017-12-30 17:47:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cwp-bg/p/8137273.html
+[INFO][pool-1-thread-8][2017-12-30 17:47:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/linbin524/p/8136799.html
+[INFO][pool-1-thread-10][2017-12-30 17:47:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/yinbiao/p/8135864.html
+[INFO][pool-1-thread-6][2017-12-30 17:47:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/bluedoctor/p/8137052.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xiaohuochai/p/8136209.html
+[INFO][pool-1-thread-2][2017-12-30 17:47:15][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/justhing/p/8150544.html
+[INFO][pool-1-thread-10][2017-12-30 17:47:17][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/landeanfen/p/8135844.html
+[INFO][pool-1-thread-6][2017-12-30 17:47:18][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/taoxu/p/6894476.html
+[INFO][pool-1-thread-4][2017-12-30 17:47:18][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/lizzie-xhu/p/8136442.html
+[INFO][pool-1-thread-1][2017-12-30 17:47:19][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/naaoveGIS/p/8136432.html
+[INFO][pool-1-thread-8][2017-12-30 17:47:19][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/lifexy/p/8136378.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:19][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/qcloud1001/p/8136183.html
+[INFO][pool-1-thread-5][2017-12-30 17:47:23][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zhengqiaoyin/p/8136013.html
+[INFO][pool-1-thread-10][2017-12-30 17:47:24][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wwf828/p/7770875.html
+[INFO][pool-1-thread-1][2017-12-30 17:47:24][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/dingxiansen/p/8135888.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:24][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zhanggui/p/8135790.html
+[INFO][pool-1-thread-4][2017-12-30 17:47:24][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/best/p/8135735.html
+[INFO][pool-1-thread-6][2017-12-30 17:47:27][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/flyingaway/p/8126178.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:34][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wuhuacong/p/8134440.html
+[INFO][pool-1-thread-1][2017-12-30 17:47:34][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/kexing/p/8127146.html
+[INFO][pool-1-thread-10][2017-12-30 17:47:34][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p6
+[INFO][pool-1-thread-8][2017-12-30 17:47:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xishuai/p/mac-iterm2.html
+[INFO][pool-1-thread-4][2017-12-30 17:47:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/llhthinker/p/8127788.html
+[INFO][pool-1-thread-6][2017-12-30 17:47:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/GuZhenYin/p/8135096.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/PatrickLiu/p/8135083.html
+[INFO][pool-1-thread-10][2017-12-30 17:47:37][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/vipyoumay/p/8134434.html
+[INFO][pool-1-thread-1][2017-12-30 17:47:38][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/majianchao/p/8134878.html
+[INFO][pool-1-thread-1][2017-12-30 17:47:44][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wardensky/p/8134740.html
+[INFO][pool-1-thread-3][2017-12-30 17:47:47][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/startwalk/p/8150539.html
+[INFO][pool-1-thread-8][2017-12-30 17:47:47][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wuhuacong/p/8126727.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/sampapa/p/8134086.html
+[INFO][pool-1-thread-4][2017-12-30 17:47:49][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/ZXYloveFR/p/8134078.html
+[INFO][pool-1-thread-5][2017-12-30 17:47:50][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xueweihan/p/8134040.html
+[INFO][pool-1-thread-10][2017-12-30 17:47:50][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/clsn/p/8093257.html
+[INFO][pool-1-thread-1][2017-12-30 17:47:51][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/IcanFixIt/p/8133798.html
+[INFO][pool-1-thread-2][2017-12-30 17:47:51][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xhload3d/p/8124629.html
+[INFO][pool-1-thread-3][2017-12-30 17:47:56][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zhaof/p/8129424.html
+[INFO][pool-1-thread-9][2017-12-30 17:47:58][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xuning/p/8117581.html
+[INFO][pool-1-thread-6][2017-12-30 17:48:00][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/codingblock/p/8060101.html
+[INFO][pool-1-thread-1][2017-12-30 17:48:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/charlotte77/p/8127780.html
+[INFO][pool-1-thread-10][2017-12-30 17:48:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/flying-tiger/p/8120046.html
+[INFO][pool-1-thread-2][2017-12-30 17:48:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/opencascade/p/OpenCASCADE_CommonSurface.html
+[INFO][pool-1-thread-4][2017-12-30 17:48:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p7
+[INFO][pool-1-thread-5][2017-12-30 17:48:10][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/tugenhua0707/p/8127466.html
+[INFO][pool-1-thread-3][2017-12-30 17:48:10][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cyq1162/p/8077263.html
+[INFO][pool-1-thread-9][2017-12-30 17:48:10][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/qdhxhz/p/8127206.html
+[INFO][pool-1-thread-10][2017-12-30 17:48:10][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/clsn/p/8087678.html
+[INFO][pool-1-thread-4][2017-12-30 17:48:10][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/bluedoctor/p/8127122.html
+[INFO][pool-1-thread-2][2017-12-30 17:48:10][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/libo0125ok/p/8127049.html
+[INFO][pool-1-thread-6][2017-12-30 17:48:11][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/pretty-guy/p/8126981.html
+[INFO][pool-1-thread-1][2017-12-30 17:48:11][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/BradPitt/p/8126860.html
+[INFO][pool-1-thread-9][2017-12-30 17:48:20][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/gzbit-zxx/p/8126849.html
+[INFO][pool-1-thread-3][2017-12-30 17:48:20][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/pengsky2016/p/8126623.html
+[INFO][pool-1-thread-6][2017-12-30 17:48:22][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/hubro/p/8126412.html
+[INFO][pool-1-thread-10][2017-12-30 17:48:22][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/zkweb/p/8126303.html
+[INFO][pool-1-thread-1][2017-12-30 17:48:25][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/ccpaging/p/8125265.html
+[INFO][pool-1-thread-5][2017-12-30 17:48:25][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/majianchao/p/8126356.html
+[INFO][pool-1-thread-2][2017-12-30 17:48:27][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wangguchangqing/p/8126333.html
+[INFO][pool-1-thread-9][2017-12-30 17:48:27][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/pony1223/p/8126200.html
+[INFO][pool-1-thread-3][2017-12-30 17:48:28][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/tolg/p/8126195.html
+[INFO][pool-1-thread-6][2017-12-30 17:48:28][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/boboooo/p/8073908.html
+[INFO][pool-1-thread-10][2017-12-30 17:48:28][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/roy-blog/p/8125049.html
+[INFO][pool-1-thread-5][2017-12-30 17:48:31][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/geekrainy/p/8125979.html
+[INFO][pool-1-thread-1][2017-12-30 17:48:32][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p8
+[INFO][pool-1-thread-8][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/dearsj001/p/AzureIoTEdgeASA.html
+[INFO][pool-1-thread-9][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/vipzhou/p/8125924.html
+[INFO][pool-1-thread-6][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xiaoyouPrince/p/8125852.html
+[INFO][pool-1-thread-3][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/cishengchongyan/p/8125127.html
+[INFO][pool-1-thread-10][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/freedommovie/p/8125251.html
+[INFO][pool-1-thread-2][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/chenxizhang/p/8125113.html
+[INFO][pool-1-thread-5][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/linxuanchen/p/NanUI-Introduction.html
+[INFO][pool-1-thread-1][2017-12-30 17:48:36][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/hafiz/p/8119964.html
+[INFO][pool-1-thread-4][2017-12-30 17:48:42][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/coco1s/p/8124815.html
+[INFO][pool-1-thread-3][2017-12-30 17:48:43][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/best/p/8124786.html
+[INFO][pool-1-thread-10][2017-12-30 17:48:43][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/edwardloveyou/p/8120533.html
+[INFO][pool-1-thread-1][2017-12-30 17:48:44][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/clsn/p/8124452.html
+[INFO][pool-1-thread-6][2017-12-30 17:48:44][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/chillsrc/p/8124436.html
+[INFO][pool-1-thread-5][2017-12-30 17:48:45][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/f1194361820/p/8124374.html
+[INFO][pool-1-thread-9][2017-12-30 17:48:47][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/dino623/p/TypeConverter.html
+[INFO][pool-1-thread-5][2017-12-30 17:48:51][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/penghuwan/p/8124305.html
+[INFO][pool-1-thread-10][2017-12-30 17:48:51][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/banluxinshou/p/7922484.html
+[INFO][pool-1-thread-9][2017-12-30 17:48:54][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/xybaby/p/8098229.html
+[INFO][pool-1-thread-3][2017-12-30 17:48:55][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/harlanc/p/8124024.html
+[INFO][pool-1-thread-6][2017-12-30 17:48:57][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/ityouknow/p/8123998.html
+[INFO][pool-1-thread-1][2017-12-30 17:48:58][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/#p9
+[INFO][pool-1-thread-10][2017-12-30 17:49:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/hoje/p/8117575.html
+[INFO][pool-1-thread-1][2017-12-30 17:49:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/aarond/p/sql_inject.html
+[INFO][pool-1-thread-5][2017-12-30 17:49:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/liqiuhao/p/8120617.html
+[INFO][pool-1-thread-2][2017-12-30 17:49:01][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/guangye/p/8120683.html
+[INFO][pool-1-thread-9][2017-12-30 17:49:02][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/along21/p/8119088.html
+[INFO][pool-1-thread-6][2017-12-30 17:49:02][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/miqi1992/p/8120215.html
+[INFO][pool-1-thread-3][2017-12-30 17:49:08][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/lsjwq/p/8120023.html
+[INFO][pool-1-thread-2][2017-12-30 17:49:09][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/frombeijingwithlove/p/8120028.html
+[INFO][pool-1-thread-10][2017-12-30 17:49:10][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/f-ck-need-u/p/8120008.html
+[INFO][pool-1-thread-1][2017-12-30 17:49:11][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/w1570631036/p/8119747.html
+[INFO][pool-1-thread-6][2017-12-30 17:49:12][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/lwqlun/p/8119856.html
+[ERROR][pool-1-thread-10][2017-12-30 17:49:13][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.cnblogs.com/f-ck-need-u/p/8120008.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:324)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:82)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.fallBackExecute(ApacheHttpClient.java:138)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.execute(ApacheHttpClient.java:86)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 10 more
+[ERROR][pool-1-thread-1][2017-12-30 17:49:13][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.cnblogs.com/w1570631036/p/8119747.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:324)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:82)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.fallBackExecute(ApacheHttpClient.java:138)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.execute(ApacheHttpClient.java:86)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 10 more
+[ERROR][pool-1-thread-7][2017-12-30 17:49:13][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.cnblogs.com/zhuanzhuanfe/p/8137503.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.WebDriverException: java.net.SocketException: Connection reset
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:324)
+	at us.codecraft.webmagic.downloader.selenium.SeleniumDownloader.download(SeleniumDownloader.java:82)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.fallBackExecute(ApacheHttpClient.java:138)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.execute(ApacheHttpClient.java:86)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	... 10 more
+[INFO][Thread-0][2017-12-30 17:49:37][us.codecraft.webmagic.Spider] - Spider www.cnblogs.com started!
+[INFO][pool-1-thread-1][2017-12-30 17:49:45][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com
+[INFO][pool-1-thread-1][2017-12-30 17:49:49][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/JavaArchitect/p/8149093.html
+[INFO][pool-1-thread-2][2017-12-30 17:49:52][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/justhing/p/8150544.html
+[INFO][pool-1-thread-2][2017-12-30 17:50:28][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/pannengzhi/p/2017-12-24-linux-self-check.html
+[INFO][pool-1-thread-2][2017-12-30 17:50:48][us.codecraft.webmagic.downloader.selenium.SeleniumDownloader] - downloading page https://www.cnblogs.com/wenmingbangbing/p/8150218.html
+[INFO][main][2017-12-30 18:45:34][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 18:45:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/signin
+[ERROR][pool-1-thread-1][2017-12-30 18:45:35][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/signin', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:754)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:124)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:339)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at zhihuProcessor.process(zhihuProcessor.java:47)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-30 18:46:04][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 18:46:05][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 18:46:05][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:754)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:124)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:339)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at zhihuProcessor.process(zhihuProcessor.java:47)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][main][2017-12-30 18:46:35][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 18:47:09][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 18:47:10][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 18:47:10][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:754)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:124)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:339)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at zhihuProcessor.process(zhihuProcessor.java:47)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 18:47:43][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 18:47:44][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 18:47:44][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:754)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:124)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:339)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at zhihuProcessor.process(zhihuProcessor.java:47)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 18:47:44][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 18:51:01][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 18:51:02][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[INFO][Thread-0][2017-12-30 18:52:25][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 18:52:26][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[INFO][Thread-0][2017-12-30 23:50:46][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:50:47][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 23:50:53][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='SignFlow-accountInput']/@input"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 433d7b604fbafcf1b0666df4ee2a5382
+*** Element info: {Using=xpath, value=//div[@class='SignFlow-accountInput']/@input}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:65)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 23:50:53][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 23:52:18][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:52:19][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 23:52:25][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='SignFlow-accountInput']/input"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 7eff6c08d45b345adb63a64a2ca9df4c
+*** Element info: {Using=xpath, value=//div[@class='SignFlow-accountInput']/input}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:65)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 23:52:55][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 23:54:01][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:54:03][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 23:54:08][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='SignFlow-accountInput']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 86fda0c1a3014cb76a0d84a34f493910
+*** Element info: {Using=xpath, value=//div[@class='SignFlow-accountInput']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:65)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 23:54:08][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 23:54:21][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:54:23][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 23:54:28][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='SignFlow-accountInput']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 397653ca54a5602125c0a28b4c681d4a
+*** Element info: {Using=xpath, value=//div[@class='SignFlow-accountInput']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:65)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 23:54:58][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 23:56:33][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:56:35][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 23:56:55][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//form[@class='SignFlow']/button[@class=SignFlow-submitButton]"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 2844fb9fcd91736686e008e3aa33d878
+*** Element info: {Using=xpath, value=//form[@class='SignFlow']/button[@class=SignFlow-submitButton]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:70)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 23:57:25][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 23:58:24][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:58:25][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[INFO][Thread-0][2017-12-30 23:58:56][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:58:57][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 23:59:05][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[@class='oauth_formbtn']/a[@node-type='submit']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 4d3be89635efb2f95d6ecdda113044c5
+*** Element info: {Using=xpath, value=//p[@class='oauth_formbtn']/a[@node-type='submit']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:77)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 23:59:05][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-30 23:59:43][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-30 23:59:45][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-30 23:59:55][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[@class='oauth_formbtn']/a[@node-type='submit']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: c4b6f3fa5223389e01341e6101b4ed54
+*** Element info: {Using=xpath, value=//p[@class='oauth_formbtn']/a[@node-type='submit']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:77)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-30 23:59:55][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.
+[INFO][Thread-0][2017-12-31 00:09:48][us.codecraft.webmagic.Spider] - Spider www.zhihu.com started!
+[INFO][pool-1-thread-1][2017-12-31 00:09:49][us.codecraft.webmagic.downloader.HttpClientDownloader] - downloading page success https://www.zhihu.com/
+[ERROR][pool-1-thread-1][2017-12-31 00:09:57][us.codecraft.webmagic.Spider$1] - process request Request{url='https://www.zhihu.com/', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[@class='oauth_formbtn']/a[@node-type='submit']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-HJ0A8OF', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\TTTTT\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 05f895e8ccbae074d23abf41f7131a6d
+*** Element info: {Using=xpath, value=//p[@class='oauth_formbtn']/a[@node-type='submit']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at zhihuProcessor.process(zhihuProcessor.java:77)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO][Thread-0][2017-12-31 00:09:57][us.codecraft.webmagic.Spider] - Spider www.zhihu.com closed! 1 pages downloaded.

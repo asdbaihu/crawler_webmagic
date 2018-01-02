@@ -54,10 +54,12 @@ public class SeleniumCnblogsSpider implements PageProcessor {
     }
 
     public static void main(String[] args) {
-        System.setProperty("selenuim_config", "D:\\fy\\Code\\crawler_webmagic\\src\\main\\resources\\config.ini");
-        Downloader downloader = new SeleniumDownloader("D:\\fy\\chromedriver_win32\\chromedriver.exe");
+//        System.setProperty("selenuim_config", "D:\\fy\\Code\\crawler_webmagic\\src\\main\\resources\\config.ini");
+        System.setProperty("selenuim_config", "D:\\Code\\idea\\crawler_webmagic\\src\\main\\resources\\config.ini");
+//        Downloader downloader = new SeleniumDownloader("D:\\fy\\chromedriver_win32\\chromedriver.exe");
+        Downloader downloader = new SeleniumDownloader("D:\\software\\chromedriver_win32\\chromedriver.exe");
         downloader.setThread(10);
-        Spider.create(new SeleniumCnblogsSpider()).setDownloader(downloader).addUrl("https://www.cnblogs.com").thread(10).runAsync();
+        Spider.create(new SeleniumCnblogsSpider()).setDownloader(downloader).addUrl("https://www.cnblogs.com").thread(2).runAsync();
     }
 
 }
